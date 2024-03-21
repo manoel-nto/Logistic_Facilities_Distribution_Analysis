@@ -32,6 +32,11 @@ Os dados sobre empresas foram coletados da base da *Receita Federal*, publicada 
 
 Para o sistema viário, foram coletados dados sobre sistema viário nacional no catálogo de metadados da *Infraestrutura Nacional de Dados Espaciais (INDE)*. As bases geoespaciais de rodovias federais e estaduais são disponibilizadas no site da INDE pela Coordenação-Geral de Planejamento e Programação de Investimentos (CGPLAN) e pela Coordenação de Levantamentos para Planejamento (COLEP), ambas vinculadas ao *Departamento Nacional de Infraestrutura de Transportes (DNIT)*.
 
+**Links:**
+* Cadastro Nacional da Pessoa Jurídica - CNPJ: https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj
+* Infraestrutura de Dados Espaciais do Distrito Federal: https://www.ide.df.gov.br/#home
+* Infraestrutura Nacional de Dados Espaciais - Catálogo de Metadados: https://metadados.inde.gov.br/geonetwork/srv/por/catalog.search#/home
+
 <!-- headings -->
 <a id='item-three'></a>
 ## Procedimentos de análise de dados
