@@ -20,8 +20,6 @@ influência na localização de instalações logísticas, como armazéns e inst
 
 Os procedimentos para análise de dados envolveram a utilização de gráficos, mapas temáticos e o cálculo de métricas de distância e medidas de associação espacial entre variáveis.
 
-Este projeto é uma "adaptação" do meu trabalho final de graduação em Administração pela Universidade de Brasília. 
-
 <!-- headings -->
 <a id='item-two'></a>
 ## Procedimentos de coleta de dados
